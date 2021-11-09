@@ -16,7 +16,7 @@ There is a lot of way to bypass authentication but most of time it's SQL Injecti
 
 I tried to inject ``' or 1=1 -- -`` (the most basic SQLi) and it worked!
 
-![connected](images/connected.png)
+![connected](images/login.png)
 
 We can see a button to get the flag but it's not that easy...
 
