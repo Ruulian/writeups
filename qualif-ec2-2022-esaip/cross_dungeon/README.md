@@ -4,6 +4,8 @@ Here is my writeup of the second web challenge of a private CTF. (Challenge by M
 
 I flag it with an unintended method so you can check this [writeup](https://hippie.cat/post/Writeup/ESAIP-Qualif/Cross-site-dungeon) from Hippie to see the intended method.
 
+Task: The final battle against ganon has started! Ganon is holding the holy cookie, find a way to steal it from him!
+
 ## First look
 
 We can see a little welcome page:

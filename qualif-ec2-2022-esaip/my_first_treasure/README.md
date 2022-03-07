@@ -2,6 +2,8 @@
 
 Here is my writeup of first web challenge from a private CTF. (Challenge by Mizu)
 
+Task: Searching for some rupees, Link found a website that is hiding a treasure. Find a way to open it! 
+
 ## First look
 
 Firstly, we have a little brief page.
