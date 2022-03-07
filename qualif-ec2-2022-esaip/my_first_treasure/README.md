@@ -58,7 +58,7 @@ So, now we are going to check the CSS sources:
 .Ch3Ak1 { color: red; }
 ```
 
-I let you only the part we the second part of our flag! 
+I let you only the part with the second part of our flag! 
 
 Our flag: ``R2Lille{Ch3Ak1``
 
