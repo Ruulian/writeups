@@ -105,7 +105,7 @@ Flag: ``R2Lille{Ch3Ak1NG_HTML_C4n_B3_``
 
 ## Fifth part
 
-So we are admin credentials, let's connect to admin panel on ``/admin``.
+So we have admin credentials, let's connect to admin panel on ``/admin``.
 
 ![admin_connected](images/admin_connected.png)
 
